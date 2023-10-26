@@ -33,15 +33,6 @@
 
 
 
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
-
-
 /**** Section 4👉 Data Types in JavaScript ****/
 
 
@@ -288,15 +279,6 @@
 
 // console.log(!((a>0) || (b<0)));
 // console.log(!true);
-
-
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
 
 
 // 5️⃣ String Concatenation(operators)
@@ -630,17 +612,6 @@
 // sum(20,30);
 // sum(50,50);
 // sum(5,6)
-
-
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
-
-
 
 // 🙋‍👨‍🏫 Interview Question 🙋‍👨‍🏫 
 
@@ -1119,15 +1090,6 @@
 
 
 
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
-
-
 
 // Array.prototype.findIndex() 🙋‍♂️
 
@@ -1396,15 +1358,6 @@
 // console.log(newArrfor);
 
 // It return new array without mutating the orignal array 
-
-
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
-
 
 
 
@@ -2116,14 +2069,6 @@
 // For ex 👉 the history or to find the url etc.
 
 // 1️⃣ whereas the DOM is the child of Window Object
-
-
-// // **********************************************************************
-
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
 
 
 
